@@ -1,0 +1,12 @@
+name: rat-training-22
+channels:
+  - conda-forge
+  - defaults
+  - pritamd47
+dependencies:
+  - jupyter
+  - matplotlib
+  - pandas
+  - geopandas
+  - plotly
+prefix: /Users/pdas47/opt/anaconda3/envs/rat-training-22
